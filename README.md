@@ -31,5 +31,6 @@
 |463|[ Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[Java](./solutions/463.%20Island%20Perimeter.java)|7 ms|
 |554|[ Brick Wall](https://leetcode.com/problems/brick-wall/)|[C++](./solutions/554.%20Brick%20Wall.cpp)|55 ms|
 |609|[ Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/)|[Java](./solutions/609.%20Find%20Duplicate%20File%20in%20System.java)|N/A|
+|726|[ Number of Atoms](https://leetcode.com/problems/number-of-atoms/)|[Java](./solutions/726.%20Number%20of%20Atoms.java)|15 ms|
 |976|[ Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)|[Java](./solutions/976.%20Largest%20Perimeter%20Triangle.java)|13 ms|
 |1333|[ Filter Restaurants by Vegan-Friendly, Price and Distance](https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/)|[JavaScript](./solutions/1333.%20Filter%20Restaurants%20by%20Vegan-Friendly%2C%20Price%20and%20Distance.js)|131 ms|
