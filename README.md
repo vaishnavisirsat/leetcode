@@ -24,3 +24,4 @@
 |206|[ Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Java](./solutions/206.%20Reverse%20Linked%20List.java)|0 ms|
 |258|[ Add Digits](https://leetcode.com/problems/add-digits/)|[Java](./solutions/258.%20Add%20Digits.java)|1 ms|
 |976|[ Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)|[Java](./solutions/976.%20Largest%20Perimeter%20Triangle.java)|13 ms|
+|1333|[ Filter Restaurants by Vegan-Friendly, Price and Distance](https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/)|[JavaScript](./solutions/1333.%20Filter%20Restaurants%20by%20Vegan-Friendly%2C%20Price%20and%20Distance.js)|131 ms|
