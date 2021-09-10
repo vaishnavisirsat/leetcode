@@ -23,3 +23,4 @@
 |203|[ Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Java](./solutions/203.%20Remove%20Linked%20List%20Elements.java)|1 ms|
 |206|[ Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Java](./solutions/206.%20Reverse%20Linked%20List.java)|0 ms|
 |258|[ Add Digits](https://leetcode.com/problems/add-digits/)|[Java](./solutions/258.%20Add%20Digits.java)|1 ms|
+|976|[ Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)|[Java](./solutions/976.%20Largest%20Perimeter%20Triangle.java)|13 ms|
