@@ -1,0 +1,34 @@
+class Solution {
+    // O(n + E)
+    public boolean isBipartite(int[][] graph) {
+        int n = graph.length;
+        // 0 = unassigned. 1/2 = assigned to set 1/2
+        int[] partition = new int[n];
+        for (int i=0; i<n; i++) {
+            if (partition[i] == 0) {
+                if (!partitionNodes(graph, partition, i, 1)) {
+                    return false;
+                }
+            }
+        }
+        return true;
+    }
+    
+    // return false if failed to partition the nodes
+    private static boolean partitionNodes(int[][] graph, int[] partition, int node, int group) {
+        if (partition[node] == 0) {
+            partition[node] = group;
+            for (int neighbour : graph[node]) {
+                // assign all neighbours to the other group
+                if (!partitionNodes(graph, partition, neighbour, 3-group)) {
+                    return false;
+                }
+            }
+        } else { // node is already assigned
+            if (partition[node] != group) {
+                return false;
+            }
+        }
+        return true;
+    }
+}
