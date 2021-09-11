@@ -46,4 +46,5 @@
 |924|[ Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread/)|[Java](./solutions/924.%20Minimize%20Malware%20Spread.java)|5 ms|
 |976|[ Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)|[Java](./solutions/976.%20Largest%20Perimeter%20Triangle.java)|13 ms|
 |1002|[ Find Common Characters](https://leetcode.com/problems/find-common-characters/)|[Python3](./solutions/1002.%20Find%20Common%20Characters.py)|44 ms|
+|1319|[ Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)|[Java](./solutions/1319.%20Number%20of%20Operations%20to%20Make%20Network%20Connected.java)|40 ms|
 |1333|[ Filter Restaurants by Vegan-Friendly, Price and Distance](https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/)|[JavaScript](./solutions/1333.%20Filter%20Restaurants%20by%20Vegan-Friendly%2C%20Price%20and%20Distance.js)|131 ms|
