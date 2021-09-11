@@ -35,6 +35,7 @@
 |547|[ Number of Provinces](https://leetcode.com/problems/number-of-provinces/)|[JavaScript](./solutions/547.%20Number%20of%20Provinces.js)|112 ms|
 |554|[ Brick Wall](https://leetcode.com/problems/brick-wall/)|[C++](./solutions/554.%20Brick%20Wall.cpp)|55 ms|
 |609|[ Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/)|[Java](./solutions/609.%20Find%20Duplicate%20File%20in%20System.java)|N/A|
+|684|[ Redundant Connection](https://leetcode.com/problems/redundant-connection/)|[Java](./solutions/684.%20Redundant%20Connection.java)|2 ms|
 |706|[ Design HashMap](https://leetcode.com/problems/design-hashmap/)|[C++](./solutions/706.%20Design%20HashMap.cpp)|189 ms|
 |726|[ Number of Atoms](https://leetcode.com/problems/number-of-atoms/)|[Java](./solutions/726.%20Number%20of%20Atoms.java)|15 ms|
 |739|[ Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[C++](./solutions/739.%20Daily%20Temperatures.cpp)|362 ms|
